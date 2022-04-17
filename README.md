@@ -1,13 +1,13 @@
 
-개인 포트폴리오 사이트 : [https://kkh9198.github.io/]
-Python / SQL / Pandas / Numpy / Sklearn / R
-데이터 수집, EDA, 머신러닝 등을 활용한 예측 프로젝트를 진행한 경험이 있습니다😊.
-🙌잘부탁드립니다🙌
+개인 포트폴리오 사이트 : [https://kkh9198.github.io/]<br>
+Python / SQL / Pandas / Numpy / Sklearn / R<br>
+데이터 수집, EDA, 머신러닝 등을 활용한 예측 프로젝트를 진행한 경험이 있습니다😊.<br>
+🙌잘부탁드립니다🙌<br>
 
 <데이터 분석가를 목표로 공부하고 있습니다!!!>
 
-진행 프로젝트
-1.브라질 E-commerce Olist 배송기간 예측 프로젝트
+진행 프로젝트<br>
+1.브라질 E-commerce Olist 배송기간 예측 프로젝트<br>
 main
 
 개요 : 브라질 E-commerce의 유니콘 기업인 Olist의 주문 데이터를 활용해 다양한 인사이트를 발굴하여 배송기간에 유의미한 변수를 추가하고, 이를 활용해 배송기간을 예측하여 고객에게 서비스를 제공합니다. 
